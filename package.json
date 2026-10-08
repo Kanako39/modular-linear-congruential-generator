@@ -1,6 +1,6 @@
 {
   "name": "modular-linear-congruential-generator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Pseudorandom integer generator with configurable modulus, multiplier, and increment parameters.",
   "type": "module",
   "main": "src/index.js",
